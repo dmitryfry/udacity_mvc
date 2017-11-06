@@ -1,3 +1,1 @@
-# Fomotograph Broken Starter Code
-
-Broken Spaghetti Code
+# Udacity MVC course  
